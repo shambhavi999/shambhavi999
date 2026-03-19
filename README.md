@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Shambhavi Kumari 👋</h1>
-<h3 align="center">Aspiring Python Developer | Django Learner | UI/UX Enthusiast</h3>
+<h3 align="center">Aspiring Python Developer | Django Developer | UI/UX Design Enthusiast</h3>
 <p align="center">
   <img src="YOUR_BANNER_IMAGE_LINK" alt="Shambhavi Banner" width="100%" />
 </p>
