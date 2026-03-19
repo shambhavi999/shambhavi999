@@ -86,11 +86,9 @@ A web-based sentiment analysis project focused on text classification and practi
 ### 🔹 [Library-Tracker-System](https://github.com/shambhavi999/Library-Tracker-System)
 A project designed to manage and organize library records efficiently.
 
-### 🔹 [soil-erosion-website](https://github.com/shambhavi999/soil-erosion-website)
-A topic-based website project built to present information in a structured and accessible way.
 
-### 🔹 [python.practice](https://github.com/shambhavi999/python.practice)
-A repository for strengthening Python fundamentals through regular coding practice.
+
+
 
 ---
 
