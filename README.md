@@ -1,7 +1,8 @@
 <h1 align="center">Hey there, I'm Shambhavi Kumari 👋</h1>
 <h3 align="center">Aspiring Python Developer | Django Developer | UI/UX Design Enthusiast</h3>
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" alt="Shambhavi Banner" width="100%" />
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/shambhavi999/shambhavi999/main/ChatGPT%20Image%20Mar%2019,%202026,%2012_26_38%20PM.png" alt="Shambhavi Banner" style="border-radius: 15 px;" width="100%" />
 </p>
 
 <p align="center">
