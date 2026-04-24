@@ -24,27 +24,34 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class ShambhaviKumari:
-    def __init__(self):
-        self.name       = "Shambhavi Kumari"
-        self.university = "Lovely Professional University, Punjab"
-        self.degree     = "B.Tech Computer Science & Engineering (2023–Present)"
-        self.role       = "Full-Stack Developer | AI Builder | UI/UX Design Enthusiast"
-        self.languages  = ["Python", "JavaScript", "C", "Java"]
-        self.frameworks = ["Django", "Streamlit", "LangChain"]
-        self.tools      = ["Figma", "MySQL", "PostgreSQL", "Git", "GitHub"]
-        self.interests  = ["AI/ML", "Full-Stack Web Dev", "UI/UX Design", "DSA", "RAG Systems"]
-        self.currently  = "Building elegant, modern & useful digital experiences 🚀"
-        self.achieved   = ["100+ DSA problems solved", "AMATEUR badge on HackerEarth",
-                           "3+ Hackathons participated"]
+<div align="center">
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together. ✨")
+### 👋 Hi, I'm **Shambhavi Kumari**
+#### Full-Stack Developer | AI Builder | UI/UX Design Enthusiast
 
-me = ShambhaviKumari()
-me.say_hi()
-```
+</div>
+
+<br/>
+
+<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
+🎓 &nbsp;**B.Tech Computer Science & Engineering** @ Lovely Professional University, Punjab *(2023–Present)*
+
+💻 &nbsp;Passionate about building **modern, elegant & useful digital experiences**
+
+🤖 &nbsp;Building AI-powered apps using **LangChain, RAG & Django** for real-world impact
+
+🎨 &nbsp;Love crafting beautiful interfaces with a strong eye for **UI/UX Design & Figma**
+
+🏆 &nbsp;Solved **100+ DSA problems** on LeetCode & GFG | **AMATEUR badge** on HackerEarth
+
+🚀 &nbsp;Participated in **3+ Hackathons** and love collaborative problem-solving
+
+🌱 &nbsp;Currently exploring **LLM fine-tuning, RAG systems & Cloud Deployment**
+
+📫 &nbsp;Reach me at **shambhavijhaa999@gmail.com**
+
+<br clear="right"/>
 
 ---
 
