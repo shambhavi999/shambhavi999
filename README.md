@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shambhavi%20Kumari&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
+<!-- Header using reliable readme-typing-svg with colored background -->
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=1&pause=99999&color=FFFFFF&bgColor=302b63&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=Shambhavi+Kumari" alt="Shambhavi Kumari" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=1&pause=99999&color=D8B4FE&bgColor=24243e&center=true&vCenter=true&width=1200&height=55&lines=AI+%26+ML+Engineer+%7C+Python+Developer+%7C+UI%2FUX+Enthusiast" alt="Subtitle" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -187,8 +188,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn"/>
-
-### ✨ *"Learn. Build. Innovate with AI. Repeat."* ✨
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=1&pause=99999&color=C084FC&bgColor=24243e&center=true&vCenter=true&width=1200&height=80&lines=✨+Learn.+Build.+Innovate+with+AI.+Repeat.+✨" alt="Footer" />
 
 </div>
