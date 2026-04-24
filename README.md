@@ -1,134 +1,185 @@
-<h1 align="center">Hey there, I'm Shambhavi Kumari 👋</h1>
-<h3 align="center">Aspiring Python Developer | Django Developer | UI/UX Design Enthusiast</h3>
-<p align="center">
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/shambhavi999/shambhavi999/main/ChatGPT%20Image%20Mar%2019,%202026,%2012_26_38%20PM.png" alt="Shambhavi Banner" style="border-radius: 15 px;" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  Building clean web projects, learning by creating, and growing into a strong developer step by step.
-</p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shambhavi%20Kumari&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shambhavi999&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Shambhavi+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;Python+%7C+Django+%7C+AI+Builder+%F0%9F%A4%96;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Building+modern+%26+elegant+digital+experiences+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
+<br/>
 
----
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shambhavi-kumari99)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shambhavi999)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shambhavijhaa999@gmail.com)
+[![LPU](https://img.shields.io/badge/LPU-B.Tech%20CSE-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.lpu.in/)
 
-## 💫 About Me
+<br/>
 
-- 🎓 BTech student passionate about building real-world projects
-- 💻 Currently learning **Python**, **Django**, and problem-solving
-- 🎨 Strong interest in **UI/UX Design** and clean interfaces
-- 🚀 I enjoy turning ideas into working web applications
-- 📚 Growing my skills through practice, projects, and consistency
-
-> I want to build digital products that are useful, elegant, and thoughtfully designed.
+</div>
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🧑‍💻 About Me
 
-### 👩‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+```python
+class ShambhaviKumari:
+    def __init__(self):
+        self.name       = "Shambhavi Kumari"
+        self.university = "Lovely Professional University, Punjab"
+        self.degree     = "B.Tech Computer Science & Engineering (2023–Present)"
+        self.role       = "Full-Stack Developer | AI Builder | UI/UX Design Enthusiast"
+        self.languages  = ["Python", "JavaScript", "C", "Java"]
+        self.frameworks = ["Django", "Streamlit", "LangChain"]
+        self.tools      = ["Figma", "MySQL", "PostgreSQL", "Git", "GitHub"]
+        self.interests  = ["AI/ML", "Full-Stack Web Dev", "UI/UX Design", "DSA", "RAG Systems"]
+        self.currently  = "Building elegant, modern & useful digital experiences 🚀"
+        self.achieved   = ["100+ DSA problems solved", "AMATEUR badge on HackerEarth",
+                           "3+ Hackathons participated"]
 
-### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing together. ✨")
 
-### 🎨 Design & Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+me = ShambhaviKumari()
+me.say_hi()
+```
 
 ---
 
-## 🚀 What I Like Building
+## 🛠️ Tech Stack & Tools
 
-- ✨ Clean and modern interfaces
-- 🌍 Real-world problem-solving projects
-- 🤖 Beginner-friendly AI-powered applications
-- 📱 User-focused web experiences
-- 🧠 Projects that combine logic, design, and usability
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+### 🗄️ Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🤖 Specializations
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Architecture-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)
+
+</div>
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Featured Projects
 
-- Python for development and placement preparation
-- Django for full-stack web applications
-- Data Structures & Algorithms
-- UI/UX design principles
-- Better project structuring and deployment workflow
+<div align="center">
 
----
+| 🏗️ Project | 📝 Description | 🔧 Tech Stack |
+|---|---|---|
+| **[NYAAI – AI Legal Justice Platform](https://github.com/shambhavi999)** | Full-stack AI platform to detect legal violations & generate court-ready notices using RAG + LangChain | Python, Django, LangChain, RAG, PostgreSQL, OCR, REST APIs |
+| **[InternTrack – Productivity Web App](https://github.com/shambhavi999)** | Full-stack app for internship & project management with analytics dashboard & secure auth | Python, Django, JS, HTML, CSS, PostgreSQL, Django ORM |
+| **[Sentiment Analysis Web App](https://github.com/shambhavi999)** | Real-time text sentiment classifier with NLP pipeline, feature extraction & public deployment | Python, Streamlit, NLP, Machine Learning |
 
-## 📌 Featured Repositories
-
-### 🔹 [Sentiment-Analysis-Web-Application](https://github.com/shambhavi999/Sentiment-Analysis-Web-Application)
-A web-based sentiment analysis project focused on text classification and practical application building.
-
-### 🔹 [Library-Tracker-System](https://github.com/shambhavi999/Library-Tracker-System)
-A project designed to manage and organize library records efficiently.
-
-
-
-
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shambhavi999&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi999&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavi999&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shambhavi999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=ffffff"/>
 
----
+</div>
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shambhavi999&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=shambhavi999&theme=tokyonight&hide_border=true&background=0d1117&stroke=C084FC&ring=C084FC&fire=FF6B6B&currStreakLabel=C084FC)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 Achievements & Certifications
 
-<p align="center">
-  <a href="www.linkedin.com/in/shambhavi-kumari99">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/shambhavi999">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+### 🥇 Achievements
+![HackerEarth](https://img.shields.io/badge/HackerEarth-AMATEUR%20Badge-2CA5E0?style=for-the-badge&logo=hackerearth&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathons-3%2B%20Participated-FF6B6B?style=for-the-badge&logo=devpost&logoColor=white)
+![DSA](https://img.shields.io/badge/LeetCode%20%26%20GFG-100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+
+### 🎓 Certifications
+
+| 📜 Certificate | 🏛️ Issuer | 📅 Date |
+|---|---|---|
+| ChatGPT Made Easy: AI Essentials for Beginners | Infosys Springboard | Sept 2025 |
+| Build Generative AI Apps with No-Code Tools | Infosys Springboard | Sept 2025 |
+| DSA with Java | Apna College | Sept 2024 |
+| Master Generative AI & ChatGPT Tools | Udemy | Oct 2024 |
+
+</div>
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! I’m learning, building, and improving every day. ⭐
-</p>
+## 🌱 Currently Learning
+
+<div align="center">
+
+```
+📌 Advanced RAG systems & LLM fine-tuning
+📌 Full-Stack Django REST Framework + React integration
+📌 UI/UX Design principles with Figma
+📌 Competitive DSA for placements
+📌 Cloud deployment — AWS / Render / Railway
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shambhavi-kumari99">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:shambhavijhaa999@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/shambhavi999">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shambhavi999&color=C084FC&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn"/>
+
+### ✨ *"Code. Design. Innovate. Repeat."* ✨
+
+</div>
