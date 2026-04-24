@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shambhavi%20Kumari&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shambhavi%20Kumari&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Shambhavi+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;Python+%7C+Django+%7C+AI+Builder+%F0%9F%A4%96;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Building+modern+%26+elegant+digital+experiences+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Shambhavi+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Python+%7C+Django+%7C+LangChain+%7C+RAG;NLP+%7C+Deep+Learning+%7C+Gen+AI+Builder;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Building+intelligent+digital+experiences+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
 <div align="center">
 
 ### 👋 Hi, I'm **Shambhavi Kumari**
-#### Full-Stack Developer | AI Builder | UI/UX Design Enthusiast
+#### AI & Machine Learning Engineer | Python Developer | UI/UX Enthusiast
 
 </div>
 
@@ -37,17 +37,19 @@
 
 🎓 &nbsp;**B.Tech Computer Science & Engineering** @ Lovely Professional University, Punjab *(2023–Present)*
 
-💻 &nbsp;Passionate about building **modern, elegant & useful digital experiences**
+🤖 &nbsp;Passionate about building **AI & ML powered applications** that solve real-world problems
 
-🤖 &nbsp;Building AI-powered apps using **LangChain, RAG & Django** for real-world impact
+🧠 &nbsp;Experienced in **NLP, RAG Architecture, LangChain & Generative AI** systems
 
-🎨 &nbsp;Love crafting beautiful interfaces with a strong eye for **UI/UX Design & Figma**
+💻 &nbsp;Building intelligent backends with **Python & Django** + beautiful frontends
+
+🎨 &nbsp;Love crafting clean interfaces with a strong eye for **UI/UX Design & Figma**
 
 🏆 &nbsp;Solved **100+ DSA problems** on LeetCode & GFG | **AMATEUR badge** on HackerEarth
 
 🚀 &nbsp;Participated in **3+ Hackathons** and love collaborative problem-solving
 
-🌱 &nbsp;Currently exploring **LLM fine-tuning, RAG systems & Cloud Deployment**
+🌱 &nbsp;Currently exploring **LLM fine-tuning, Vector Databases & Cloud Deployment**
 
 📫 &nbsp;Reach me at **shambhavijhaa999@gmail.com**
 
@@ -148,11 +150,11 @@
 <div align="center">
 
 ```
-📌 Advanced RAG systems & LLM fine-tuning
-📌 Full-Stack Django REST Framework + React integration
-📌 UI/UX Design principles with Figma
+📌 LLM Fine-tuning & Prompt Engineering
+📌 Advanced RAG systems & Vector Databases (Pinecone, ChromaDB)
+📌 Deep Learning — CNNs, Transformers & Hugging Face
+📌 MLOps & Cloud Deployment — AWS / Render / Railway
 📌 Competitive DSA for placements
-📌 Cloud deployment — AWS / Render / Railway
 ```
 
 </div>
@@ -187,6 +189,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn"/>
 
-### ✨ *"Code. Design. Innovate. Repeat."* ✨
+### ✨ *"Learn. Build. Innovate with AI. Repeat."* ✨
 
 </div>
